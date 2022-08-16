@@ -1,4 +1,4 @@
-package main.java.com.nikita.javacore;
+package main.java.com.nikita.javacore.module1;
 
 import java.util.Scanner;
 

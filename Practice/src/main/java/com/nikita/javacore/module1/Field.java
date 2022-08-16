@@ -1,4 +1,4 @@
-package main.java.com.nikita.javacore;
+package main.java.com.nikita.javacore.module1;
 
 public class Field {
   char gameField [] = {'1','2','3','4','5','6','7','8','9'};

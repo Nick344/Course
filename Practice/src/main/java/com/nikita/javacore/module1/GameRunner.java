@@ -1,4 +1,4 @@
-package main.java.com.nikita.javacore;
+package main.java.com.nikita.javacore.module1;
 
 public class GameRunner {
   public static void main(String[] args) {
